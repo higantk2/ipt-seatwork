@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698853332117",
+    "project_id": "iptt-f7b22",
+    "storage_bucket": "iptt-f7b22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698853332117:android:5e381b029714790d09379c",
+        "android_client_info": {
+          "package_name": "com.example.seatwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZUSFxqREcFACGwonJfIfRizWOfWP3pUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
